@@ -1,0 +1,22 @@
+@media screen and (max-width: 1001px) {
+    /* body {
+      background-color: red;
+      color: white;
+    } */
+    /*mobile. hide web */
+    #btnWhatsAppWeb{  
+      display: none  
+    }  
+  }
+  
+  /* On screens that are 600px wide or less, the background color is olive */
+  @media screen and (min-width: 1000px) {
+    /* body {
+      background-color: olive;
+      color: white;
+    } */
+      /*mobile. hide web */
+    #btnWhatsAppMobile{  
+      display: none  
+    }  
+  }
